@@ -24,7 +24,7 @@
     "Video Concat Mode": "Videoverkettungsmodus",
     "Random": "Zufällige Verkettung (empfohlen)",
     "Sequential": "Sequentielle Verkettung",
-    "Video Transition Mode": "Video Übergangsmodus",  
+    "Video Transition Mode": "Video Übergangsmodus",
     "None": "Kein Übergang",
     "Shuffle": "Zufällige Übergänge",
     "FadeIn": "FadeIn",
@@ -91,9 +91,15 @@
     "Voice Example": "Dies ist ein Beispieltext zum Testen der Sprachsynthese",
     "Synthesizing Voice": "Sprachsynthese läuft, bitte warten...",
     "TTS Provider": "Sprachsynthese-Anbieter auswählen",
+    "TTS Servers": "TTS-Server",
+    "No voices available for the selected TTS server. Please select another server.": "Keine Stimmen für den ausgewählten TTS-Server verfügbar. Bitte wählen Sie einen anderen Server.",
+    "SiliconFlow API Key": "SiliconFlow API-Schlüssel",
+    "SiliconFlow TTS Settings": "SiliconFlow TTS-Einstellungen",
+    "Speed: Range [0.25, 4.0], default is 1.0": "Geschwindigkeit: Bereich [0.25, 4.0], Standardwert ist 1.0",
+    "Volume: Uses Speech Volume setting, default 1.0 maps to gain 0": "Lautstärke: Verwendet die Sprachlautstärke-Einstellung, Standardwert 1.0 entspricht Verstärkung 0",
     "Hide Log": "Protokoll ausblenden",
-    "点击获取": "Klicken zum Abrufen",
-    "推荐使用": "Empfohlen",
-    "可以不用配置，如果 Pexels 无法使用，再选择Pixabay": "Kann uneingestellt bleiben. Wenn Pexels nicht funktioniert, wählen Sie Pixabay"
+    "Hide Basic Settings": "Basis-Einstellungen ausblenden\n\nWenn diese Option deaktiviert ist, wird die Basis-Einstellungen-Leiste nicht auf der Seite angezeigt.\n\nWenn Sie sie erneut anzeigen möchten, setzen Sie `hide_config = false` in `config.toml`",
+    "LLM Settings": "**LLM-Einstellungen**",
+    "Video Source Settings": "**Videoquellen-Einstellungen**"
   }
 }
